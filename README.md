@@ -31,3 +31,4 @@ I’m currently exploring the intersection of AI, product marketing, and social 
 📫 Connect with Me!
 * LinkedIn: https://www.linkedin.com/in/shilpa-sanivarapu-153baa282?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4TqA86G3TDSGJE%2F8b%2FAUlQ%3D%3D
 * Email: csbhavana@icloud.com
+* LeetCode: https://leetcode.com/profile/
